@@ -1,6 +1,6 @@
 # Jenkins Docker Setup & Update Tool
 
-A robust Bash script designed to automate the lifecycle of a Jenkins server running in Docker. This script handles backups with progress bars, image updates, persistence, and Docker-out-of-Docker (DooD) capabilities.
+A robust Bash script designed to automate the lifecycle of a Jenkins server running in Docker. This script handles backups, image updates, persistence, and Docker-out-of-Docker (DooD) capabilities.
 
 ## Features
 
